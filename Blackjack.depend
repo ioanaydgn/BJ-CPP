@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1686147817 source:c:\users\mertaydogan\desktop\bj\blackjack\src\card.cpp
+	"card.h"
+	<iostream>
+
+1686147799 c:\users\mertaydogan\desktop\bj\blackjack\include\card.h
+
+1686150461 source:c:\users\mertaydogan\desktop\bj\blackjack\main.cpp
+
+1686149731 c:\users\mertaydogan\desktop\bj\blackjack\include\blackjack.h
+	"game.h"
+
+1686148214 c:\users\mertaydogan\desktop\bj\blackjack\include\game.h
+	"deck.h"
+	"dealer.h"
+	"player.h"
+	"print.h"
+	"statistics.h"
+	<string>
+
+1686148158 c:\users\mertaydogan\desktop\bj\blackjack\include\deck.h
+	"card.h"
+	<vector>
+
+1686149746 c:\users\mertaydogan\desktop\bj\blackjack\include\dealer.h
+	"human.h"
+
+1686148283 c:\users\mertaydogan\desktop\bj\blackjack\include\human.h
+	"card.h"
+	<vector>
+
+1686148344 c:\users\mertaydogan\desktop\bj\blackjack\include\player.h
+	"human.h"
+	<string>
+
+1686148388 c:\users\mertaydogan\desktop\bj\blackjack\include\print.h
+	<string>
+
+1686148458 c:\users\mertaydogan\desktop\bj\blackjack\include\statistics.h
+	"player.h"
+	"color.h"
+	<string>
+
+1686147910 c:\users\mertaydogan\desktop\bj\blackjack\include\color.h
+	<ostream>
+
+1686149850 source:c:\users\mertaydogan\desktop\bj\blackjack\src\blackjack.cpp
+	"blackjack.h"
+	<iostream>
+	<time.h>
+
+1686148039 source:c:\users\mertaydogan\desktop\bj\blackjack\src\dealer.cpp
+	"dealer.h"
+	<iostream>
+
+1686148159 source:c:\users\mertaydogan\desktop\bj\blackjack\src\deck.cpp
+	"deck.h"
+	<iostream>
+	<algorithm>
+
+1686149786 source:c:\users\mertaydogan\desktop\bj\blackjack\src\game.cpp
+	"game.h"
+	"compatible.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1686149826 c:\users\mertaydogan\desktop\bj\blackjack\include\compatible.h
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+
+1686148302 source:c:\users\mertaydogan\desktop\bj\blackjack\src\human.cpp
+	"human.h"
+	<iostream>
+
+1686148361 source:c:\users\mertaydogan\desktop\bj\blackjack\src\player.cpp
+	"player.h"
+	<iostream>
+
+1686148408 source:c:\users\mertaydogan\desktop\bj\blackjack\src\print.cpp
+	"print.h"
+	<iostream>
+	<sstream>
+
+1686148479 source:c:\users\mertaydogan\desktop\bj\blackjack\src\statistics.cpp
+	"statistics.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1686149753 source:c:\users\mertaydogan\desktop\bj\blackjack\src\compatible.cpp
+

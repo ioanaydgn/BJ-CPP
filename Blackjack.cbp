@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Blackjack" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Blackjack" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Blackjack" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CMakeLists.txt" />
+		<Unit filename="bin/Debug/statistics.bin" />
+		<Unit filename="data/a.bin" />
+		<Unit filename="data/e.bin" />
+		<Unit filename="data/statistics.bin" />
+		<Unit filename="include/blackjack.h" />
+		<Unit filename="include/card.h" />
+		<Unit filename="include/color.h" />
+		<Unit filename="include/compatible.h" />
+		<Unit filename="include/dealer.h" />
+		<Unit filename="include/deck.h" />
+		<Unit filename="include/game.h" />
+		<Unit filename="include/human.h" />
+		<Unit filename="include/player.h" />
+		<Unit filename="include/print.h" />
+		<Unit filename="include/statistics.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/blackjack.cpp" />
+		<Unit filename="src/card.cpp" />
+		<Unit filename="src/compatible.cpp" />
+		<Unit filename="src/dealer.cpp" />
+		<Unit filename="src/deck.cpp" />
+		<Unit filename="src/game.cpp" />
+		<Unit filename="src/human.cpp" />
+		<Unit filename="src/player.cpp" />
+		<Unit filename="src/print.cpp" />
+		<Unit filename="src/statistics.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,22 @@
+# ninja log v5
+16	378	1686155509321322034	CMakeFiles/blackjack.dir/src/statistics.cpp.o	4a8d7d8eedce54d8
+2	527	1686155467517350475	CMakeFiles/blackjack.dir/src/game.cpp.o	7339a825d8db7ada
+2	484	1686155467464087580	CMakeFiles/blackjack.dir/src/print.cpp.o	e2f567cb312978ad
+1	483	1686155467462841462	CMakeFiles/blackjack.dir/src/card.cpp.o	5e97fbf2767fd7b6
+1	479	1686155467462817336	CMakeFiles/blackjack.dir/src/blackjack.cpp.o	9d1c7fddf5138ccc
+1	482	1686155467462836878	CMakeFiles/blackjack.dir/src/player.cpp.o	eb4d7d4530a0ea8f
+1	482	1686155467469934784	CMakeFiles/blackjack.dir/src/human.cpp.o	a1c871bcf29a107f
+2	483	1686155467469555857	CMakeFiles/blackjack.dir/src/deck.cpp.o	c75ea935855a142a
+0	481	1686155467462838087	CMakeFiles/blackjack.dir/src/dealer.cpp.o	f2cd0671d76d75a2
+378	418	1686155509362636087	blackjack	6a43ccfef5818b97
+0	47	1686155598760912222	build.ninja	ef9c78c7eec81fea
+9	485	1686155600897488208	CMakeFiles/blackjack.dir/src/dealer.cpp.o	4e62f3e4b1695a43
+9	486	1686155600897579083	CMakeFiles/blackjack.dir/src/blackjack.cpp.o	f2a7d24f881ab2ee
+10	486	1686155600897551375	CMakeFiles/blackjack.dir/src/player.cpp.o	ff032d84db9b7a6d
+10	487	1686155600898372965	CMakeFiles/blackjack.dir/src/card.cpp.o	2eb209e384497136
+10	487	1686155600901619407	CMakeFiles/blackjack.dir/src/print.cpp.o	3bf17314d842f83e
+10	491	1686155600905994776	CMakeFiles/blackjack.dir/src/deck.cpp.o	e414ca298d91440f
+9	491	1686155600906710573	CMakeFiles/blackjack.dir/src/human.cpp.o	3b3650a0aca3ef9f
+11	508	1686155600924120338	CMakeFiles/blackjack.dir/src/statistics.cpp.o	d0ab5e4386b876b2
+11	541	1686155600957795275	CMakeFiles/blackjack.dir/src/game.cpp.o	e19c14358f9a45df
+541	591	1686155601009567816	blackjack	6a43ccfef5818b97
